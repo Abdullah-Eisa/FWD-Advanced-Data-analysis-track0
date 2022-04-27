@@ -15,3 +15,7 @@
 - subscribers ride much shorter trips compared to customers for all ages,indicating that customers usually used it for entertainment.
 
 - customers show pattern of large trip duration around 20 and 53 years old indicating high entertainment periods.
+
+
+
+![image](https://user-images.githubusercontent.com/63313373/165555764-ff91fe90-b4ad-41e7-8a17-9fc7116f2321.png)
